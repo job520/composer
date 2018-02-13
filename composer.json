@@ -1,10 +1,13 @@
 {
-    "name": "lee/composer",
+    "name": "order/composer",
     "authors": [
         {
             "name": "lee",
             "email": "complet@163.com"
         }
     ],
+    "autoload": {
+        "psr-4": { "Lee\\": "" }
+    },
     "require": {}
 }
