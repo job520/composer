@@ -1,0 +1,10 @@
+{
+    "name": "lee/composer",
+    "authors": [
+        {
+            "name": "lee",
+            "email": "complet@163.com"
+        }
+    ],
+    "require": {}
+}
